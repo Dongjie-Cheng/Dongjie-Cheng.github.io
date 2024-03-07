@@ -6,6 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% ../files/Dongjie Cheng.pdf %}
+My CV.pdf can be downloaded [here](../files/Dongjie Cheng.pdf).
 
