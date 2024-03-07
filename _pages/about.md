@@ -33,14 +33,13 @@ Experience
 ======
 * **WEST CHINA HOSPITAL – BIG DATA CENTER	Chengdu,  Sichuan**
   * Research Assitant of **Dr.Kang Li**’s Lab                                                        * February 22, 2023 - Present
-  * Supervisor: **Prof.Kang Li**, **Prof.Qicheng Lao**
+  * Supervisor: **Dr.Kang Li**, **Dr.Qicheng Lao**
   
 
 
 Projects
 ------
-* SAM project
-
+**SAM project**
 
 In the SAM project, We proposed using large models to generate descriptions for segmentation targets, feeding theses descriptions to the detection model to produce bounding boxes for SAM, thereby achieving zero-shot segmentation. 
 I was responsible for conceiving and implementing specific experiments. Firstly, I completed the evaluation of the SAM model on multiple modalities medical datasets. Then I verified the effectiveness of the improvement method driven by LLM (Large Language Models). 
@@ -49,8 +48,7 @@ The results show that the improved method performs well under zero-shot conditio
   *	***Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation***
 
 
-* T2i-Eval project
-
+**T2i-Eval project**
 
 In the T2i-Eval project, we proposed a method combining Scene Graph and Graph QA to score the quality of generated images, conducting a comprehensive evaluation of images from perspectives such as object omission, attribute inaccuracies, relational errors, and hallucinations.
 I was responsible for generating evaluation dataset images, the specific design and experimentation of the Scene Graph part, achieving the construction of Scene Graphs through the use of GroundingDINO+BLIP VQA.
