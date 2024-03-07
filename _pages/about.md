@@ -32,7 +32,7 @@ ZEKUN.J, DONGJIE.C… ***Enhancing SAM Zero-Shot Performance on Multimodal Medic
 Experience
 ======
 **WEST CHINA HOSPITAL – BIG DATA CENTER	Chengdu,  Sichuan**
-* Research Assitant of **Dr.Kang Li** ’s Lab                                                       * February 22, 2023 - Present
+* Research Assitant of **Dr.Kang Li** ’s Lab                                                   * February 22, 2023 - Present
 * Supervisor: **Dr.Kang Li**, **Dr.Qicheng Lao**
   
 
