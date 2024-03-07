@@ -15,18 +15,12 @@ redirect_from:
 
 Current
 ======
-I am looking for remote internships, summer internships in 2024, and PhD opportunities in 2025.
+* I am looking for remote internships, summer internships in 2024, and PhD opportunities in 2025.
 
 Education
 ======
-* B.S. in GitHub, GitHub University, Junior Year
+* B.S. in Artificial Intelligence, Sichuan University, Junior Year
 
-Experience
-------
-* WEST CHINA HOSPITAL – BIG DATA CENTER	Chengdu,  Sichuan
-  * Research Assitant of **Dr.Kang Li**’s Lab                                                        * February 22, 2023 - Present
-  * Supervisor: **Prof.Kang Li**, **Prof.Qicheng Lao**
-  
 Research Publication
 ======
 Z.QIN, D,CHENG… The Good, The Bad, and The Hallucinated: Evaluating Hallucinations in Text-to-Image Models with Knowledge-Enhanced GraphQA Agent.  ***Co-First Author, Submitted to IJCAI-2024***
@@ -35,21 +29,33 @@ CHENG, D., QIN, Z., JIANG, Z., ZHANG, S., LAO, Q., & LI, K. (2023). SAM on Medic
 
 ZEKUN.J, DONGJIE.C… Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation.  ***Co-First Author, submitted to Big Data Mining and Analytics(IF=13.6), ArXiv, abs/2402.15759***
 
+Experience
+======
+* **WEST CHINA HOSPITAL – BIG DATA CENTER	Chengdu,  Sichuan**
+  * Research Assitant of **Dr.Kang Li**’s Lab                                                        * February 22, 2023 - Present
+  * Supervisor: **Prof.Kang Li**, **Prof.Qicheng Lao**
+  
+
+
 Projects
 ------
-* SAM project (Key Project Member)
+* SAM project
+
+
 In the SAM project, We proposed using large models to generate descriptions for segmentation targets, feeding theses descriptions to the detection model to produce bounding boxes for SAM, thereby achieving zero-shot segmentation. 
 I was responsible for conceiving and implementing specific experiments. Firstly, I completed the evaluation of the SAM model on multiple modalities medical datasets. Then I verified the effectiveness of the improvement method driven by LLM (Large Language Models). 
 The results show that the improved method performs well under zero-shot conditions, outperforming the Grounded-SAM baseline on most datasets. The project ultimately resulted in two papers, of which I am a co-first author.
-  * SAM on Medical Images: A Comprehensive Study on Three Prompt Modes.                 
-  *	Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation
+  * ***SAM on Medical Images: A Comprehensive Study on Three Prompt Modes.***                 
+  *	***Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation***
 
 
-* T2i-Eval project 	(Key Project Member)
+* T2i-Eval project
+
+
 In the T2i-Eval project, we proposed a method combining Scene Graph and Graph QA to score the quality of generated images, conducting a comprehensive evaluation of images from perspectives such as object omission, attribute inaccuracies, relational errors, and hallucinations.
 I was responsible for generating evaluation dataset images, the specific design and experimentation of the Scene Graph part, achieving the construction of Scene Graphs through the use of GroundingDINO+BLIP VQA.
 We constructed a human-evaluated dataset containing 12,000 images from 1,000 prompts and validated the effectiveness of our method. Compared with human evaluations, our Pearson and Kendall correlation coefficients surpassed those of T2ICompbench(Neurips 2023). This project ultimately resulted in one paper, for which I am a co-first author.
-  * The Good, The Bad, and The Hallucinated: Evaluating Hallucinations in Text-to-Image Models with Knowledge-Enhanced GraphQA Agent 
+  * ***The Good, The Bad, and The Hallucinated: Evaluating Hallucinations in Text-to-Image Models with Knowledge-Enhanced GraphQA Agent***
 
 
 Create content & metadata
