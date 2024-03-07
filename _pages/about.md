@@ -56,3 +56,24 @@ In the T2i-Eval project, we proposed a method combining Scene Graph and Graph QA
 I was responsible for generating evaluation dataset images, the specific design and experimentation of the Scene Graph part, achieving the construction of Scene Graphs through the use of GroundingDINO+BLIP VQA.
 We constructed a human-evaluated dataset containing 12,000 images from 1,000 prompts and validated the effectiveness of our method. Compared with human evaluations, our Pearson and Kendall correlation coefficients surpassed those of T2ICompbench(Neurips 2023). This project ultimately resulted in one paper, for which I am a co-first author.
   * ***The Good, The Bad, and The Hallucinated: Evaluating Hallucinations in Text-to-Image Models with Knowledge-Enhanced GraphQA Agent***
+
+
+Honors & Awards
+======
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
+  <span>National Scholarship (Awarded yearly to the first ranked student in my major)</span>
+  <span>2023.11</span>
+</div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
+  <span>Third Prize, “China Software Cup - Finals”</span>
+  <span>2023.08</span>
+</div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
+  <span>Second Prize, “RoboMaster - North Region Competition”</span>
+  <span>2023.06</span>
+</div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
+  <span>Provincial Second Prize, “National College Mathematics Competition”</span>
+  <span>2021.12</span>
+</div>
+
