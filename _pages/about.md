@@ -23,16 +23,16 @@ Education
 
 Research Publication
 ======
-Z.QIN, D,CHENG… The Good, The Bad, and The Hallucinated: Evaluating Hallucinations in Text-to-Image Models with Knowledge-Enhanced GraphQA Agent.  ***Co-First Author, Submitted to IJCAI-2024***
+Z.QIN, D,CHENG… ***The Good, The Bad, and The Hallucinated: Evaluating Hallucinations in Text-to-Image Models with Knowledge-Enhanced GraphQA Agent***  **Co-First Author, Submitted to IJCAI-2024**
 
-CHENG, D., QIN, Z., JIANG, Z., ZHANG, S., LAO, Q., & LI, K. (2023). SAM on Medical Images: A Comprehensive Study on Three Prompt Modes.  ***Co-First Author, ArXiv, abs/2305.00035.***
+CHENG, D., QIN, Z., JIANG, Z., ZHANG, S., LAO, Q., & LI, K. (2023). ***SAM on Medical Images: A Comprehensive Study on Three Prompt Modes***  **Co-First Author, ArXiv, abs/2305.00035.**
 
-ZEKUN.J, DONGJIE.C… Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation.  ***Co-First Author, submitted to Big Data Mining and Analytics(IF=13.6), ArXiv, abs/2402.15759***
+ZEKUN.J, DONGJIE.C… ***Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation***  **Co-First Author, submitted to Big Data Mining and Analytics(IF=13.6), ArXiv, abs/2402.15759**
 
 Experience
 ======
 * **WEST CHINA HOSPITAL – BIG DATA CENTER	Chengdu,  Sichuan**
-  * Research Assitant of **Dr.Kang Li**’s Lab                                                        * February 22, 2023 - Present
+  * Research Assitant of **Dr.Kang Li** ’s Lab                                                        * February 22, 2023 - Present
   * Supervisor: **Dr.Kang Li**, **Dr.Qicheng Lao**
   
 
