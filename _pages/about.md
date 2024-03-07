@@ -60,24 +60,12 @@ We constructed a human-evaluated dataset containing 12,000 images from 1,000 pro
 
 Honors & Awards
 ======
-* <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>National Scholarship (Awarded yearly to the first ranked student in my major)</div>
-  <div>2023.11</div>
-</div>
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Scholarship (Awarded yearly to the first ranked student in my major)</div><div>2023.11</div></div>
 
-* <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>Third Prize, “China Software Cup - Finals”</div>
-  <div>2023.08</div>
-</div>
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Third Prize, “China Software Cup - Finals”</div><div>2023.08</div></div>
 
-* <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>Second Prize, “RoboMaster - North Region Competition”</div>
-  <div>2023.06</div>
-</div>
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Second Prize, “RoboMaster - North Region Competition”</div><div>2023.06</div></div>
 
-* <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>Provincial Second Prize, “National College Mathematics Competition”</div>
-  <div>2021.12</div>
-</div>
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Provincial Second Prize, “National College Mathematics Competition”</div><div>2021.12</div></div>
 
 
