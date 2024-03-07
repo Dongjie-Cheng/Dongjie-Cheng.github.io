@@ -19,7 +19,8 @@ Current
 
 Education
 ======
-* B.S. in Artificial Intelligence, Sichuan University, Junior Year    <img src="../images/scu.png" width="100" height="100" alt="校徽" align="right">
+* B.S. in Artificial Intelligence, Sichuan University, Junior Year    <img src="../images/scu.png" width="50%" height="50%" alt="校徽" align="right">
+
 
 Research Publication
 ======
