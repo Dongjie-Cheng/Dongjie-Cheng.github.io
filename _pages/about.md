@@ -20,7 +20,7 @@ Current
 Education
 ======
 <div style="display: flex; align-items: center;">
-* B.S. in Artificial Intelligence, Sichuan University, Junior Year<img src="../images/scu.png" width="5%" height="5%" alt="校徽" align="right">
+* B.S. in Artificial Intelligence, Sichuan University, Junior Year <img src="../images/scu.png" width="5%" height="5%" alt="校徽" align="right">
 </div>
 
 Research Publication
