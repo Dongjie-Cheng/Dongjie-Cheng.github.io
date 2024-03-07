@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Introduction"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
+Introduction
+======
 * I’m a Junior student at Sichuan University. As the top-ranked student in my grade majoring in Artificial Intelligence, I was honored with the 2023 China National Scholarship for my academic excellence. 
 * My research interests lie in emerging areas such as multimodal content generation and LLM (Large Language Models)-driven Retrieval-Augmented Generation (RAG).
 * Currently, I serve as a research assistant in **Dr. Kang Li**'s Lab at the **West China Hospital – Big Data Center**, where my contributions span several projects, including the evaluation and improvement of the Segment Anything Model (SAM), and exploring evaluation methods for T2i (text-to-image) generation. 
