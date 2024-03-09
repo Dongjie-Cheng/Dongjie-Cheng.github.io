@@ -21,7 +21,7 @@ Current
 Education
 ======
 * B.S. in Artificial Intelligence, Sichuan University, Junior Year <img src="../images/scu.png" width="5%" height="5%" alt="校徽" align="right">
-* GPA 3.88/4, 91.83
+* GPA: **3.88/4**, **91.83**
 
 Research Publication
 ======
