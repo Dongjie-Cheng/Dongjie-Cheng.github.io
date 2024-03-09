@@ -9,7 +9,7 @@ redirect_from:
 
 Introduction
 ======
-* I’m **Dongjie Cheng(程东杰)**, a Junior student at Sichuan University. As the top-ranked student in my grade majoring in Artificial Intelligence, I was honored with the 2023 China National Scholarship for my academic excellence. 
+* I’m **Dongjie Cheng(程东杰)**, a Junior student at Sichuan University. As the top-ranked student in my grade majoring in Artificial Intelligence, I was honored with the **2023 China National Scholarship** for my academic excellence. 
 * My research interests lie in emerging areas such as multimodal content generation, AI4Science and LLM (Large Language Models)-driven Retrieval-Augmented Generation (RAG).
 * Currently, I serve as a research assistant in **Dr. Kang Li**'s Lab at the **West China Hospital – Big Data Center**, where my contributions span several projects, including the evaluation and improvement of the Segment Anything Model (SAM), and exploring evaluation methods for T2i (text-to-image) generation. 
 * I am dedicated to conducting and publishing high-quality research as a pivotal step towards strengthening my application for a PhD program in the fall of 2025.
@@ -21,6 +21,7 @@ Current
 Education
 ======
 * B.S. in Artificial Intelligence, Sichuan University, Junior Year <img src="../images/scu.png" width="5%" height="5%" alt="校徽" align="right">
+* GPA 3.88/4, 91.83
 
 Research Publication
 ======
@@ -29,6 +30,16 @@ Z.QIN, D,CHENG… ***The Good, The Bad, and The Hallucinated: Evaluating Halluci
 CHENG, D., QIN, Z., JIANG, Z., ZHANG, S., LAO, Q., & LI, K. (2023).  ***SAM on Medical Images: A Comprehensive Study on Three Prompt Modes***  *Co-First Author, [ArXiv, abs/2305.00035.](https://arxiv.org/pdf/2305.00035)*
 
 ZEKUN.J, DONGJIE.C… ***Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation***  *Co-First Author, Submitted to Big Data Mining and Analytics (IF=13.6), [ArXiv, abs/2402.15759](https://arxiv.org/pdf/2402.15759)*
+
+Honors & Awards
+======
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Scholarship (Awarded yearly to the first ranked student in my major)</div><div>2023.11</div></div>
+
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Third Prize, “China Software Cup - Finals”</div><div>2023.08</div></div>
+
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Second Prize, “RoboMaster - North Region Competition”</div><div>2023.06</div></div>
+
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Provincial Second Prize, “National College Mathematics Competition”</div><div>2021.12</div></div>
 
 Experience
 ======
@@ -58,14 +69,5 @@ We constructed a human-evaluated dataset containing 12,000 images from 1,000 pro
   * ***The Good, The Bad, and The Hallucinated: Evaluating Hallucinations in Text-to-Image Models with Knowledge-Enhanced GraphQA Agent***
 
 
-Honors & Awards
-======
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Scholarship (Awarded yearly to the first ranked student in my major)</div><div>2023.11</div></div>
-
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Third Prize, “China Software Cup - Finals”</div><div>2023.08</div></div>
-
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Second Prize, “RoboMaster - North Region Competition”</div><div>2023.06</div></div>
-
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Provincial Second Prize, “National College Mathematics Competition”</div><div>2021.12</div></div>
 
 
