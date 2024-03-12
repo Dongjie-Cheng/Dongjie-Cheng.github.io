@@ -18,6 +18,7 @@ Current
 ======
 * I am looking for remote internships, summer internships in 2024, and PhD opportunities in 2025.
 * Currently, I am exploring multimodal reasoning in VLM.
+
 Education
 ======
 * B.S. in Artificial Intelligence, **Sichuan University**, Junior Year <img src="../images/scu.png" width="5%" height="5%" alt="校徽" align="right">
