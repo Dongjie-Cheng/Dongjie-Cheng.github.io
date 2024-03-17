@@ -33,7 +33,7 @@ Z.QIN, D,CHENG… ***The Good, The Bad, and The Hallucinated: Evaluating Halluci
 
 CHENG, D., QIN, Z., JIANG, Z., ZHANG, S., LAO, Q., & LI, K. (2023).  ***SAM on Medical Images: A Comprehensive Study on Three Prompt Modes***  *Co-First Author, [ArXiv, abs/2305.00035.](https://arxiv.org/pdf/2305.00035)*
 
-ZEKUN.J, DONGJIE.C… ***Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation***  *Co-First Author, Submitted to Big Data Mining and Analytics (IF=13.6), [ArXiv, abs/2402.15759](https://arxiv.org/pdf/2402.15759)*
+ZEKUN.J, DONGJIE.C… ***Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation***  *Co-First Author, Submitted to Big Data Mining and Analytics (IF=13.6), [ArXiv, abs/2402.15759](https://arxiv.org/pdf/2402.15759)，Cited by: 47*
 
 Experience
 ======
