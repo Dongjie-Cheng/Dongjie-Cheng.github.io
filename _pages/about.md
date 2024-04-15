@@ -29,7 +29,7 @@ Education
 
 Research Publication
 ======
-Z.QIN, D,CHENG… ***The Good, The Bad, and The Hallucinated: Evaluating Hallucinations in Text-to-Image Models with Knowledge-Enhanced GraphQA Agent***  *Co-First Author, Submitted to IJCAI-2024 (Passed first review stage.)*
+Z.QIN, D,CHENG… ***The Good, The Bad, and The Hallucinated: Evaluating Hallucinations in Text-to-Image Models with Knowledge-Enhanced GraphQA Agent***  *Co-First Author*
 
 CHENG, D., QIN, Z., JIANG, Z., ZHANG, S., LAO, Q., & LI, K. (2023).  ***SAM on Medical Images: A Comprehensive Study on Three Prompt Modes***  *Co-First Author, [ArXiv, abs/2305.00035.](https://arxiv.org/pdf/2305.00035), Cited by: 47*
 
