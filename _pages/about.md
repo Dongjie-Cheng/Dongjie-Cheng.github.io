@@ -11,13 +11,13 @@ Introduction
 ======
 * I’m **Dongjie Cheng(程东杰)**, a Junior student at Sichuan University. As the top-ranked student in my grade majoring in Artificial Intelligence last year, I was honored with the **2023 China National Scholarship** for my academic excellence. 
 * My research interests lie in emerging areas such as LLM+X(Anything), multimodal content generation. I also always maintain an open mind and am willing to learn new things.
-* Currently, I serve as a research assistant in **Dr. Kang Li**'s Lab at the **West China Hospital – Big Data Center**, where my contributions span several projects, including the evaluation and improvement of the Segment Anything Model (SAM), and exploring evaluation methods for T2i (text-to-image) generation. 
+* I used to serve as a research assistant in **Dr. Kang Li**'s Lab at the **West China Hospital – Big Data Center**, where my contributions span several projects, including the evaluation and improvement of the Segment Anything Model (SAM), and exploring evaluation methods for T2i (text-to-image) generation. I am also doing a remote internship at Dr. Huaxiu Yao's Lab, mainly exploring the fine-tuning, alignment, and hallucination mitigation of large multimodal models.
 * I am dedicated to conducting and publishing high-quality research as a pivotal step towards strengthening my application for a PhD program in the fall of 2025.
 
 Current
 ======
-* I am looking for remote internships, summer internships in 2024, and PhD opportunities in 2025.
-* Currently, I am exploring multimodal reasoning in VLM.
+* I am looking for PhD opportunities in 2025.
+* Currently, I am exploring multimodal reasoning, alignment in VLM.
 
 Education
 ======
@@ -29,11 +29,13 @@ Education
 
 Research Publication
 ======
-Z.QIN, D,CHENG… ***The Good, The Bad, and The Hallucinated: Evaluating Hallucinations in Text-to-Image Models with Knowledge-Enhanced GraphQA Agent***  *Co-First Author*
+***Calibrated self-rewarding vision language models*** *Co-First Author, [Arxiv, abs/2405.14622](https://arxiv.org/abs/2405.14622) Submitted to NeurIPS-2024 Main Track*
 
-CHENG, D., QIN, Z., JIANG, Z., ZHANG, S., LAO, Q., & LI, K. (2023).  ***SAM on Medical Images: A Comprehensive Study on Three Prompt Modes***  *Co-First Author, [ArXiv, abs/2305.00035.](https://arxiv.org/pdf/2305.00035), Cited by: 47*
+***Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent***  *Co-First Author, Submitted to NeurIPS-2024 D&B Track*
 
-ZEKUN.J, DONGJIE.C… ***Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation***  *Co-First Author, Submitted to Big Data Mining and Analytics (IF=13.6), [ArXiv, abs/2402.15759](https://arxiv.org/pdf/2402.15759)*
+***SAM on Medical Images: A Comprehensive Study on Three Prompt Modes***  *Co-First Author, [ArXiv, abs/2305.00035](https://arxiv.org/pdf/2305.00035), Cited by: 65*
+
+***Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation***  *Co-First Author, Submitted to Big Data Mining and Analytics (JCR Q1), [ArXiv, abs/2402.15759](https://arxiv.org/pdf/2402.15759)*
 
 Experience
 ======
@@ -46,6 +48,12 @@ Experience
 
 Projects
 ------
+**VLM project**
+
+Our work addresses these challenges by proposing the Calibrated Self-Rewarding (CSR) approach, which enables the model to self-improve by iteratively generating candidate responses, evaluating the reward for each response, and curating preference data for fine-tuning. In the reward modeling, we employ a step-wise strategy and incorporate visual constraints into the self-rewarding process to place greater emphasis on visual input. Empirical results demonstrate that CSR enhances performance and reduces hallucinations across ten benchmarks and tasks, achieving substantial improvements over existing methods by 7.62%. Our empirical results are further supported by rigorous theoretical analysis, under mild assumptions, verifying the effectiveness of introducing visual constraints into the self-rewarding paradigm.
+I was responsible for the specific implementation and optimization of the CSR method, as well as core tasks such as DPO training and SFT training for VLM.
+  * ***Calibrated Self-Rewarding Vision Language Models***
+
 **SAM project**
 
 In the SAM project, We proposed using large models to generate descriptions for segmentation targets, feeding theses descriptions to the detection model to produce bounding boxes for SAM, thereby achieving zero-shot segmentation. 
@@ -60,7 +68,7 @@ The results show that the improved method performs well under zero-shot conditio
 In the T2i-Eval project, we proposed a method combining Scene Graph and Graph QA to score the quality of generated images, conducting a comprehensive evaluation of images from perspectives such as object omission, attribute inaccuracies, relational errors, and hallucinations.
 I was responsible for generating evaluation dataset images, the specific design and experimentation of the Scene Graph part, achieving the construction of Scene Graphs through the use of GroundingDINO+BLIP VQA.
 We constructed a human-evaluated dataset containing 12,000 images from 1,000 prompts and validated the effectiveness of our method. Compared with human evaluations, our Pearson and Kendall correlation coefficients surpassed those of T2ICompbench(Neurips 2023). This project ultimately resulted in one paper, for which I am a co-first author.
-  * ***The Good, The Bad, and The Hallucinated: Evaluating Hallucinations in Text-to-Image Models with Knowledge-Enhanced GraphQA Agent***
+  * ***Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent***
 
 Honors & Awards
 ======
