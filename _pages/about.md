@@ -64,7 +64,6 @@ redirect_from:
   * ***Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent***
 
 # 🎖 Honors & Awards
-======
 * <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Scholarship (Awarded yearly to the first ranked student in my major)</div><div>2023.11</div></div>
 
 * <div style="display: flex; justify-content: space-between; align-items: center;"><div>Third Prize, “China Software Cup - Finals”</div><div>2023.08</div></div>
