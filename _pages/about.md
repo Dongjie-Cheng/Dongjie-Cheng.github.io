@@ -33,7 +33,7 @@ redirect_from:
 
 # 💻 Experience
 
-## **WEST CHINA HOSPITAL – BIG DATA CENTER	Chengdu,  Sichuan**
+## WEST CHINA HOSPITAL – BIG DATA CENTER	Chengdu,  Sichuan
 * Research Assitant of **Dr.Kang Li** ’s Lab
 * February 22, 2023 - Present
 * Supervisor: **Dr.Kang Li**, **Dr.Qicheng Lao**
