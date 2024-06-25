@@ -13,7 +13,7 @@ redirect_from:
 
 # 🪧 Current
 * I am looking for PhD opportunities in 2025.
-* Currently, I am exploring multimodal reasoning, alignment in VLM.
+* Currently, I am exploring multimodal reasoning, alignment in VLMs.
 
 # 📖 Education
 * B.S. in Artificial Intelligence, **Sichuan University**, Junior Year <img src="../images/scu.png" width="5%" height="5%" alt="校徽" align="right">
