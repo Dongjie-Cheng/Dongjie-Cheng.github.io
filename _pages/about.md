@@ -53,12 +53,15 @@ redirect_from:
 
 ## 👨‍⚕️ **SAM project**
 
+<div class='paper-box'><div class='paper-box-image'><img src='../images/tvsam.jpg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
 - In the SAM project, We proposed using large models to generate descriptions for segmentation targets, feeding theses descriptions to the detection model to produce bounding boxes for SAM, thereby achieving zero-shot segmentation. 
 - I was responsible for conceiving and implementing specific experiments. Firstly, I completed the evaluation of the SAM model on multiple modalities medical datasets. Then I verified the effectiveness of the improvement method driven by LLM (Large Language Models). 
 - The results show that the improved method performs well under zero-shot conditions, outperforming the Grounded-SAM baseline on most datasets. The project ultimately resulted in two papers, of which I am a co-first author.
   * ***[SAM on Medical Images: A Comprehensive Study on Three Prompt Modes.](https://arxiv.org/pdf/2305.00035)***                 
   *	***[Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation](https://arxiv.org/pdf/2402.15759)***
-
+</div>
+</div>
 
 ## 📏 **T2i-Eval project**
 
