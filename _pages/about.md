@@ -45,9 +45,9 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><img src='../images/csr.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
   
-  * ***[Calibrated Self-Rewarding Vision Language Models](https://arxiv.org/abs/2405.14622)***
+  📝 ***[Calibrated Self-Rewarding Vision Language Models](https://arxiv.org/abs/2405.14622)***
   
-  [**Project**](https://dongjie-cheng.github.io/CSR.html)
+  🔗 [**Project**](https://dongjie-cheng.github.io/CSR.html)
 - Our work addresses misalignment challenges in LVLMs by proposing the Calibrated Self-Rewarding (CSR) approach, which enables the model to self-improve by iteratively generating candidate responses, evaluating the reward for each response, and curating preference data for fine-tuning. In the reward modeling, we employ a step-wise strategy and incorporate visual constraints into the self-rewarding process to place greater emphasis on visual input. Empirical results demonstrate that CSR enhances performance and reduces hallucinations across ten benchmarks and tasks, achieving substantial improvements over existing methods by 7.62%. Our empirical results are further supported by rigorous theoretical analysis, under mild assumptions, verifying the effectiveness of introducing visual constraints into the self-rewarding paradigm.
 - I was responsible for the specific implementation and optimization of the CSR method, as well as core tasks such as DPO training and SFT training for VLM.
 </div>
@@ -58,10 +58,10 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><img src='../images/tvsam.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
   
-  * ***[SAM on Medical Images: A Comprehensive Study on Three Prompt Modes.](https://arxiv.org/pdf/2305.00035)***
-  * ***[Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation](https://arxiv.org/pdf/2402.15759)***
+  📝 ***[SAM on Medical Images: A Comprehensive Study on Three Prompt Modes.](https://arxiv.org/pdf/2305.00035)***
+  📝 ***[Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation](https://arxiv.org/pdf/2402.15759)***
   
-  [**Project**](https://github.com/JZK00/TV-SAM)
+  🔗 [**Project**](https://github.com/JZK00/TV-SAM)
 - In the SAM project, We proposed using large models to generate descriptions for segmentation targets, feeding theses descriptions to the detection model to produce bounding boxes for SAM, thereby achieving zero-shot segmentation. 
 - I was responsible for conceiving and implementing specific experiments. Firstly, I completed the evaluation of the SAM model on multiple modalities medical datasets. Then I verified the effectiveness of the improvement method driven by LLM (Large Language Models). 
 - The results show that the improved method performs well under zero-shot conditions, outperforming the Grounded-SAM baseline on most datasets. The project ultimately resulted in two papers, of which I am a co-first author. 
@@ -70,7 +70,7 @@ redirect_from:
 
 ## 📏 **T2i-Eval project**
 
-  * ***Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent***
+  📝 ***Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent***
   
 - In the T2i-Eval project, we proposed a method combining Scene Graph and Graph QA to score the quality of generated images, conducting a comprehensive evaluation of images from perspectives such as object omission, attribute inaccuracies, relational errors, and hallucinations.
 - I was responsible for generating evaluation dataset images, the specific design and experimentation of the Scene Graph part, achieving the construction of Scene Graphs through the use of GroundingDINO+BLIP VQA.
