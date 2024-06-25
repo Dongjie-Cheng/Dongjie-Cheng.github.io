@@ -23,7 +23,7 @@ redirect_from:
 * CET-6: **636**
 
 # 📝 Research Publication
-- ***Calibrated self-rewarding vision language models*** *Co-First Author, [Arxiv, abs/2405.14622](https://arxiv.org/abs/2405.14622) Submitted to NeurIPS-2024 Main Track*
+- ***Calibrated self-rewarding vision language models*** *Co-First Author, [Arxiv, abs/2405.14622](https://arxiv.org/pdf/2405.14622) Submitted to NeurIPS-2024 Main Track*
 
 - ***Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent***  *Co-First Author, Submitted to NeurIPS-2024 D&B Track*
 
@@ -45,7 +45,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><img src='../images/csr.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
   
-  📝 ***[Calibrated Self-Rewarding Vision Language Models](https://arxiv.org/abs/2405.14622)***
+  📝 ***[Calibrated Self-Rewarding Vision Language Models](https://arxiv.org/pdf/2405.14622)***
   
   🔗 [**Project**](https://dongjie-cheng.github.io/CSR.html)
 - Our work addresses misalignment challenges in LVLMs by proposing the Calibrated Self-Rewarding (CSR) approach, which enables the model to self-improve by iteratively generating candidate responses, evaluating the reward for each response, and curating preference data for fine-tuning. In the reward modeling, we employ a step-wise strategy and incorporate visual constraints into the self-rewarding process to place greater emphasis on visual input. Empirical results demonstrate that CSR enhances performance and reduces hallucinations across ten benchmarks and tasks, achieving substantial improvements over existing methods by 7.62%. Our empirical results are further supported by rigorous theoretical analysis, under mild assumptions, verifying the effectiveness of introducing visual constraints into the self-rewarding paradigm.
