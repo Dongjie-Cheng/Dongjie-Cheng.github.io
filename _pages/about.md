@@ -84,13 +84,14 @@ redirect_from:
 
 * <div style="display: flex; justify-content: space-between; align-items: center;"><div>Second Prize, “RoboMaster - North Region Competition”</div><div>2023.06</div></div>
 
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Provincial Second Prize, “National College Mathematics Competition”</div><div>2021.12</div></div>
+
 # 🔭 Interests
 - 🎹 Piano (Amateur Level 10, Issued by Shanghai Conservatory of Music)
 - ✏️ Sketch & Quick Sketch (Amateur Level 4&6)
 - 🌄 Hiking
 - ⚽ Football (I'm a big fan of BVB) <img src="../images/bvb.png" width="1em" height="1em" alt="bvb" style="vertical-align: middle;">
+- 🕹️ Games
 
-
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Provincial Second Prize, “National College Mathematics Competition”</div><div>2021.12</div></div>
 
 
