@@ -91,7 +91,7 @@ redirect_from:
 - ✏️ Sketch & Quick Sketch (Amateur Level 4&6)
 - 🌄 Hiking
 - ⚽ Football (I'm a big fan of BVB) <img src="../images/bvb.png" width="1em" height="1em" alt="bvb" style="vertical-align: middle;">
-- 🕹️ Games
+- 🕹️ Games (Valorant, RainbowSix...)
 
 
 
