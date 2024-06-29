@@ -90,7 +90,7 @@ redirect_from:
 - 🎹 Piano (Amateur Level 10, Issued by Shanghai Conservatory of Music)
 - ✏️ Sketch & Quick Sketch (Amateur Level 4&6)
 - 🌄 Hiking
-- ⚽ Football (I'm a big fan of BVB) <img src="../images/bvb.png" width="20em" height="20em" alt="bvb" style="vertical-align: middle;">
+- ⚽ Football (I'm a big fan of BVB.) <img src="../images/bvb.png" width="20em" height="20em" alt="bvb" style="vertical-align: middle;">
 - 🕹️ Games (Valorant, RainbowSix...)
 
 
