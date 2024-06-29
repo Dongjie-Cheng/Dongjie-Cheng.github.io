@@ -8,7 +8,7 @@ redirect_from:
 
 * I’m **Dongjie Cheng(程东杰)**, a Junior student at Sichuan University. As the top-ranked student in my grade majoring in Artificial Intelligence last year, I was honored with the **2023 China National Scholarship** for my academic excellence. 
 * My research interests lie in emerging areas such as LLM+X(Anything), multimodal content generation. I also always maintain an open mind and am willing to learn new things.
-* I used to serve as a research assistant in **Dr. Kang Li**'s Lab at the **West China Hospital – Big Data Center**, where my contributions span several projects, including the evaluation and improvement of the Segment Anything Model (SAM), and exploring evaluation methods for T2i (text-to-image) generation. I am also doing a remote internship at **Dr. Huaxiu Yao**'s Lab, mainly exploring the fine-tuning, alignment, and hallucination mitigation of large multimodal models. Up to now, I have mainly been responsible for and participated in four publications, three of which have been made available on arXiv. <a href='https://scholar.google.com/citations?user=s6x7gQcAAAAJ'><img src="https://img.shields.io/badge/Citations-67-blue.svg?logo=google-scholar"></a>
+* I used to serve as a research assistant in **Dr. Kang Li**'s Lab at the **West China Hospital – Big Data Center**, where my contributions span several projects, including the evaluation and improvement of the Segment Anything Model (SAM), and exploring evaluation methods for T2i (text-to-image) generation. I am also doing a remote internship at **Dr. Huaxiu Yao**'s Lab, mainly exploring the fine-tuning, alignment, and hallucination mitigation of large multimodal models. Up to now, I have mainly been responsible for and participated in four publications, three of which have been made available on arXiv. <a href='https://scholar.google.com/citations?user=s6x7gQcAAAAJ'><img src="https://img.shields.io/badge/Citations-69-blue.svg?logo=google-scholar"></a>
 * I am dedicated to conducting and publishing high-quality research as a pivotal step towards strengthening my application for a PhD program in the fall of 2025.
 
 # 🪧 Current
@@ -80,9 +80,9 @@ redirect_from:
 # 🎖 Honors & Awards
 * <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Scholarship (Awarded yearly to the first ranked student in my major)</div><div>2023.11</div></div>
 
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Third Prize, “China Software Cup - Finals”</div><div>2023.08</div></div>
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Third Prize, “China Software Cup - Finals”</div><div>2023.08</div></div>
 
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Second Prize, “RoboMaster - North Region Competition”</div><div>2023.06</div></div>
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Regional Second Prize, “RoboMaster - North Region Competition”</div><div>2023.06</div></div>
 
 * <div style="display: flex; justify-content: space-between; align-items: center;"><div>Provincial Second Prize, “National College Mathematics Competition”</div><div>2021.12</div></div>
 
