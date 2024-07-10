@@ -40,6 +40,15 @@ redirect_from:
 <p align="right"><em>(In revision)</em></p>
 <p align="right"><em><a href="https://arxiv.org/pdf/2402.15759">ArXiv, abs/2402.15759</a></em></p>
 
+# 🎖 Honors & Awards
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Scholarship (1/48 that year)</div><div>2023.11</div></div>
+
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Third Prize, “China Software Cup - Finals”</div><div>2023.08</div></div>
+
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Regional Second Prize, “RoboMaster - North Region Competition”</div><div>2023.06</div></div>
+
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Provincial Second Prize, “National College Mathematics Competition”</div><div>2021.12</div></div>
+
 # 💻 Experience
 ## WEST CHINA HOSPITAL – BIG DATA CENTER	Chengdu,  Sichuan
 * Research Assitant of **Dr.Kang Li** ’s Lab
@@ -83,16 +92,6 @@ redirect_from:
 - In the T2i-Eval project, we proposed a method combining Scene Graph and Graph QA to score the quality of generated images, conducting a comprehensive evaluation of images from perspectives such as object omission, attribute inaccuracies, relational errors, and hallucinations.
 - I was responsible for generating evaluation dataset images, the specific design and experimentation of the Scene Graph part, achieving the construction of Scene Graphs through the use of GroundingDINO+BLIP VQA.
 - We constructed a human-evaluated dataset containing 12,000 images from 1,000 prompts and validated the effectiveness of our method. Compared with human evaluations, our Pearson and Kendall correlation coefficients surpassed those of T2ICompbench(Neurips 2023). This project ultimately resulted in one paper, for which I am a co-first author.
-  
-
-# 🎖 Honors & Awards
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Scholarship (Awarded yearly to the first ranked student in my major)</div><div>2023.11</div></div>
-
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Third Prize, “China Software Cup - Finals”</div><div>2023.08</div></div>
-
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Regional Second Prize, “RoboMaster - North Region Competition”</div><div>2023.06</div></div>
-
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Provincial Second Prize, “National College Mathematics Competition”</div><div>2021.12</div></div>
 
 # 🔭 Interests
 - 🎹 Piano (Amateur Level 10, Issued by Shanghai Conservatory of Music)
