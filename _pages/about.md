@@ -24,30 +24,21 @@ redirect_from:
 
 # 📝 Research Publication
 - ***Calibrated self-rewarding vision language models***
-
-*<p align="right">Co-First Author,  Submitting to NeurIPS-2024 Main Track</p>*
-
-*<p align="right">(The short version is presented in ICML 2024 FM-Wild Workshop)</p>*
-
-*<p align="right">[Arxiv, abs/2405.14622](https://arxiv.org/pdf/2405.14622)</p>*
+<p align="right"><em>Co-First Author,  Submitting to NeurIPS-2024 Main Track</em></p>
+<p align="right"><em>(The short version is presented in ICML 2024 FM-Wild Workshop)</em></p>
+<p align="right"><em><a href="https://arxiv.org/pdf/2405.14622">Arxiv, abs/2405.14622</a></em></p>
 
 - ***Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent***
-
-*<p align="right">Co-First Author, Submitting to NeurIPS-2024 D&B Track</p>*
+<p align="right"><em>Co-First Author, Submitting to NeurIPS-2024 D&B Track</em></p>
 
 - ***SAM on Medical Images: A Comprehensive Study on Three Prompt Modes***
-
-*<p align="right">Co-First Author, Cited by: 69</p>*
-
-*<p align="right">[ArXiv, abs/2305.00035](https://arxiv.org/pdf/2305.00035)</p>*
+<p align="right"><em>Co-First Author, Cited by: 69</em></p>
+<p align="right"><em><a href="https://arxiv.org/pdf/2305.00035">ArXiv, abs/2305.00035</a></em></p>
 
 - ***Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation***
-
-*<p align="right">Co-First Author, Submitting to Big Data Mining and Analytics (JCR Q1)</p>*
-
-*<p align="right">(In revision)</p>*
-
-*<p align="right">[ArXiv, abs/2402.15759](https://arxiv.org/pdf/2402.15759)</p>*
+<p align="right"><em>Co-First Author, Submitting to Big Data Mining and Analytics (JCR Q1)</em></p>
+<p align="right"><em>(In revision)</em></p>
+<p align="right"><em><a href="https://arxiv.org/pdf/2402.15759">ArXiv, abs/2402.15759</a></em></p>
 
 # 💻 Experience
 ## WEST CHINA HOSPITAL – BIG DATA CENTER	Chengdu,  Sichuan
