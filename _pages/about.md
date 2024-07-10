@@ -8,7 +8,7 @@ redirect_from:
 
 * I’m **Dongjie Cheng(程东杰)**, a Junior student at Sichuan University. As the top-ranked student in my grade majoring in Artificial Intelligence last year, I was honored with the **2023 China National Scholarship** for my academic excellence. 
 * My research interests lie in emerging areas such as **large vision-language models(LVLM)' fine-tuning&alignment**, **AI for medical sciences**, **multimodal contents' generation&evaluation**. I also always maintain an open mind and am willing to learn new things.
-* I used to serve as a research assistant in **Dr. Kang Li**'s Lab at the **West China Hospital – Big Data Center**, where my contributions span several projects, including the evaluation and improvement of the Segment Anything Model (SAM), and exploring evaluation methods for T2i (text-to-image) generation. I am also doing a remote internship at **Dr. Huaxiu Yao**'s Lab, mainly exploring the fine-tuning, alignment, and hallucination mitigation of large multimodal models. Up to now, I have mainly been responsible for and participated in four publications, three of which have been made available on arXiv. <a href='https://scholar.google.com/citations?user=s6x7gQcAAAAJ'><img src="https://img.shields.io/badge/Citations-70-blue.svg?logo=google-scholar"></a>
+* I used to serve as a research assistant in **Dr. Kang Li**'s Lab at the **West China Hospital – Big Data Center**, where my contributions span several projects, including the evaluation and improvement of the Segment Anything Model (SAM), and exploring evaluation methods for T2i (text-to-image) generation. I am also doing a remote internship at **Dr. Huaxiu Yao**'s Lab, mainly exploring the fine-tuning, alignment, and hallucination mitigation of large multimodal models. Up to now, I have mainly been responsible for and participated in four publications, three of which have been made available on arXiv. <a href='https://scholar.google.com/citations?user=s6x7gQcAAAAJ'><img src="https://img.shields.io/badge/Citations-73-blue.svg?logo=google-scholar"></a>
 * I am dedicated to conducting and publishing high-quality research as a pivotal step towards strengthening my application for a PhD program in the fall of 2025.
 
 # 🪧 Current
@@ -23,16 +23,24 @@ redirect_from:
 * CET-6: **636**
 
 # 📝 Research Publication
-- ***Calibrated self-rewarding vision language models*** *Co-First Author, [Arxiv, abs/2405.14622](https://arxiv.org/pdf/2405.14622) Submitted to NeurIPS-2024 Main Track*
+- ***Calibrated self-rewarding vision language models***
+*<p align="right">Co-First Author,  Submitting to NeurIPS-2024 Main Track</p>*
+*<p align="right">(The short version is presented in ICML 2024 FM-Wild Workshop)</p>*
+*<p align="right">[Arxiv, abs/2405.14622](https://arxiv.org/pdf/2405.14622)</p>*
 
-- ***Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent***  *Co-First Author, Submitted to NeurIPS-2024 D&B Track*
+- ***Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent***
+*<p align="right">Co-First Author, Submitting to NeurIPS-2024 D&B Track</p>*
 
-- ***SAM on Medical Images: A Comprehensive Study on Three Prompt Modes***  *Co-First Author, [ArXiv, abs/2305.00035](https://arxiv.org/pdf/2305.00035), Cited by: 65*
+- ***SAM on Medical Images: A Comprehensive Study on Three Prompt Modes***
+*<p align="right">Co-First Author, Cited by: 69</p>*
+*<p align="right">[ArXiv, abs/2305.00035](https://arxiv.org/pdf/2305.00035)</p>*
 
-- ***Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation***  *Co-First Author, Submitted to Big Data Mining and Analytics (JCR Q1), [ArXiv, abs/2402.15759](https://arxiv.org/pdf/2402.15759)*
+- ***Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation***
+*<p align="right">Co-First Author, Submitting to Big Data Mining and Analytics (JCR Q1)</p>*
+*<p align="right">(In revision)</p>*
+*<p align="right">[ArXiv, abs/2402.15759](https://arxiv.org/pdf/2402.15759)</p>*
 
 # 💻 Experience
-
 ## WEST CHINA HOSPITAL – BIG DATA CENTER	Chengdu,  Sichuan
 * Research Assitant of **Dr.Kang Li** ’s Lab
 * February 22, 2023 - Present
