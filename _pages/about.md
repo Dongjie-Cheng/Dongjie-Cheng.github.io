@@ -26,7 +26,9 @@ redirect_from:
 - ***Calibrated self-rewarding vision language models***
 
 *<p align="right">Co-First Author,  Submitting to NeurIPS-2024 Main Track</p>*
+
 *<p align="right">(The short version is presented in ICML 2024 FM-Wild Workshop)</p>*
+
 *<p align="right">[Arxiv, abs/2405.14622](https://arxiv.org/pdf/2405.14622)</p>*
 
 - ***Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent***
@@ -36,12 +38,15 @@ redirect_from:
 - ***SAM on Medical Images: A Comprehensive Study on Three Prompt Modes***
 
 *<p align="right">Co-First Author, Cited by: 69</p>*
+
 *<p align="right">[ArXiv, abs/2305.00035](https://arxiv.org/pdf/2305.00035)</p>*
 
 - ***Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation***
 
 *<p align="right">Co-First Author, Submitting to Big Data Mining and Analytics (JCR Q1)</p>*
+
 *<p align="right">(In revision)</p>*
+
 *<p align="right">[ArXiv, abs/2402.15759](https://arxiv.org/pdf/2402.15759)</p>*
 
 # 💻 Experience
