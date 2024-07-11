@@ -51,12 +51,15 @@ redirect_from:
 
 
 # 💻 Experience
-## WEST CHINA HOSPITAL – BIG DATA CENTER	Chengdu,  Sichuan
+## WEST CHINA HOSPITAL – BIG DATA CENTER
 * Research Assitant of **Dr.Kang Li** ’s Lab
-* February 22, 2023 - Present
+* February, 2023 - Present
 * Supervisor: **Dr.Kang Li**, **Dr.Qicheng Lao**
   
-
+## UNC-CHAPEL HILL
+* Remote Intern of **Dr.Huaxiu Yao** ’s Lab
+* March, 2024 - Present
+* Supervisor: **Dr.Huaxiu Yao**
 
 # 🧩 Projects
 ## 🎙 **VLM project**
