@@ -22,6 +22,15 @@ redirect_from:
 * Last Year's Comprehensive Rank: **1/48**
 * CET-6: **636**
 
+# 🎖 Honors & Awards
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Scholarship (1/48 that year)</div><div>2023.11</div></div>
+
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Third Prize, “China Software Cup - Finals”</div><div>2023.08</div></div>
+
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Regional Second Prize, “RoboMaster - North Region Competition”</div><div>2023.06</div></div>
+
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Provincial Second Prize, “National College Mathematics Competition”</div><div>2021.12</div></div>
+
 # 📝 Research Publication
 - ***Calibrated self-rewarding vision language models***
 <p align="right"><em>Co-First Author,  Submitting to NeurIPS-2024 Main Track</em></p>
@@ -40,14 +49,6 @@ redirect_from:
 <p align="right"><em>(In revision)</em></p>
 <p align="right"><em><a href="https://arxiv.org/pdf/2402.15759">ArXiv, abs/2402.15759</a></em></p>
 
-# 🎖 Honors & Awards
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Scholarship (1/48 that year)</div><div>2023.11</div></div>
-
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Third Prize, “China Software Cup - Finals”</div><div>2023.08</div></div>
-
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Regional Second Prize, “RoboMaster - North Region Competition”</div><div>2023.06</div></div>
-
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Provincial Second Prize, “National College Mathematics Competition”</div><div>2021.12</div></div>
 
 # 💻 Experience
 ## WEST CHINA HOSPITAL – BIG DATA CENTER	Chengdu,  Sichuan
