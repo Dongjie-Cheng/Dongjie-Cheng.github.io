@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 * I’m **Dongjie Cheng(程东杰)**, a Junior student at Sichuan University. As the top-ranked student in my grade majoring in Artificial Intelligence last year, I was honored with the **2023 China National Scholarship** for my academic excellence. 
-* My research interests lie in emerging areas such as **large vision-language models(LVLM)' fine-tuning&alignment**, **AI for medical sciences**, **multimodal contents' generation&evaluation**. I also always maintain an open mind and am willing to learn new things.
+* My research interests lie in emerging areas such as **large vision-language models (LVLM) fine-tuning and alignment**, **AI for medical sciences**, **multimodal content generation and evaluation**. I also always maintain an open mind and am willing to learn new things.
 * I used to serve as a research assistant in **Dr. Kang Li**'s Lab at the **West China Hospital – Big Data Center**, where my contributions span several projects, including the evaluation and improvement of the Segment Anything Model (SAM), and exploring evaluation methods for T2i (text-to-image) generation. I am also doing a remote internship at **Dr. Huaxiu Yao**'s Lab, mainly exploring the fine-tuning, alignment, and hallucination mitigation of large multimodal models. Up to now, I have mainly been responsible for and participated in four publications, three of which have been made available on arXiv. <a href='https://scholar.google.com/citations?user=s6x7gQcAAAAJ'><img src="https://img.shields.io/badge/Citations-74-blue.svg?logo=google-scholar"></a>
 * I am dedicated to conducting and publishing high-quality research as a pivotal step towards strengthening my application for a PhD program in the fall of 2025.
 
