@@ -8,18 +8,18 @@ redirect_from:
 
 * I’m **Dongjie Cheng(程东杰)**, a Junior student at Sichuan University. As the top-ranked student in my grade majoring in Artificial Intelligence last year, I was honored with the **2023 China National Scholarship** for my academic excellence. 
 * My research interests lie in emerging areas such as **large vision-language models (LVLM) fine-tuning and alignment**, **AI for medical sciences**, **multimodal content generation and evaluation**. I also always maintain an open mind and am willing to learn new things.
-* I used to serve as a research assistant in **Dr. Kang Li**'s Lab at the **West China Hospital – Big Data Center**, where my contributions span several projects, including the evaluation and improvement of the Segment Anything Model (SAM), and exploring evaluation methods for T2i (text-to-image) generation. I am also doing a remote internship at **Dr. Huaxiu Yao**'s Lab, mainly exploring the fine-tuning, alignment, and hallucination mitigation of large multimodal models. Up to now, I have mainly been responsible for and participated in four publications, three of which have been made available on arXiv. <a href='https://scholar.google.com/citations?user=s6x7gQcAAAAJ'><img src="https://img.shields.io/badge/Citations-74-blue.svg?logo=google-scholar"></a>
+* I used to serve as a research assistant in **Dr. Kang Li**'s Lab at the **West China Hospital – Big Data Center**, where my contributions span several projects, including the evaluation and improvement of the Segment Anything Model (SAM), and exploring evaluation methods for T2i (text-to-image) generation. I am also doing a remote internship at **Dr. Huaxiu Yao**'s Lab, mainly exploring the fine-tuning, alignment, and hallucination mitigation of large multimodal models. Up to now, I have mainly been responsible for and participated in four publications, three of which have been made available on arXiv. <a href='https://scholar.google.com/citations?user=s6x7gQcAAAAJ'><img src="https://img.shields.io/badge/Citations-83-blue.svg?logo=google-scholar"></a>
 * I am dedicated to conducting and publishing high-quality research as a pivotal step towards strengthening my application for a PhD program in the fall of 2025.
 
-# 🪧 Current
-* I am looking for PhD opportunities in 2025.
-* Currently, I am exploring multimodal reasoning, alignment in VLMs.
+# 🔥 News
+- *2024.08*: &nbsp;🎉🎉 [***TV-SAM***](https://arxiv.org/pdf/2402.15759) is accepted by **Big Data Mining and Analytics** (JCR Q1, 中科院1区, IF=7.7)
+- *2024.07*: &nbsp;🎉🎉 [The short version of ***CSR***](https://openreview.net/forum?id=B7sj10tXbL) is presented in  **ICML 2024 FM-Wild Workshop**
 
 # 📖 Education
-* B.S. in Artificial Intelligence, **Sichuan University**, Junior Year <img src="../images/scu.png" width="5%" height="5%" alt="校徽" align="right">
-* GPA: **3.88/4**, **91.83/100**
+* B.S. in Artificial Intelligence, **Sichuan University**, Senior Year <img src="../images/scu.png" width="5%" height="5%" alt="校徽" align="right">
+* GPA (Compulsory): **3.88/4**, **91.55/100**
+* GPA (Overall): **3.78/4**, **90.1/100**
 * Rank: **4/48**
-* Last Year's Comprehensive Rank: **1/48**
 * CET-6: **636**
 
 # 🎖 Honors & Awards
@@ -32,22 +32,25 @@ redirect_from:
 * <div style="display: flex; justify-content: space-between; align-items: center;"><div>Provincial Second Prize, “National College Mathematics Competition”</div><div>2021.12</div></div>
 
 # 📝 Research Publication
+
+- ***TV-SAM: Increasing Zero-Shot Segmentation Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation***
+<p align="right"><em>Co-First Author, Accepted, Big Data Mining and Analytics (JCR Q1, 中科院1区, IF=7.7)</em></p>
+<p align="right"><em><a href="https://arxiv.org/pdf/2402.15759">ArXiv, abs/2402.15759</a></em></p>
+
 - ***Calibrated self-rewarding vision language models***
 <p align="right"><em>Co-First Author,  Submitting to NeurIPS-2024 Main Track</em></p>
 <p align="right"><em>(The short version is presented in ICML 2024 FM-Wild Workshop)</em></p>
 <p align="right"><em><a href="https://arxiv.org/pdf/2405.14622">Arxiv, abs/2405.14622</a></em></p>
 
+- ***SAM on Medical Images: A Comprehensive Study on Three Prompt Modes***
+<p align="right"><em>Co-First Author, Cited by: 78</em></p>
+<p align="right"><em><a href="https://arxiv.org/pdf/2305.00035">ArXiv, abs/2305.00035</a></em></p>
+
 - ***Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent***
 <p align="right"><em>Co-First Author, Submitting to NeurIPS-2024 D&B Track</em></p>
 
-- ***SAM on Medical Images: A Comprehensive Study on Three Prompt Modes***
-<p align="right"><em>Co-First Author, Cited by: 69</em></p>
-<p align="right"><em><a href="https://arxiv.org/pdf/2305.00035">ArXiv, abs/2305.00035</a></em></p>
 
-- ***Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation***
-<p align="right"><em>Co-First Author, Submitting to Big Data Mining and Analytics (JCR Q1)</em></p>
-<p align="right"><em>(In revision)</em></p>
-<p align="right"><em><a href="https://arxiv.org/pdf/2402.15759">ArXiv, abs/2402.15759</a></em></p>
+
 
 
 # 💻 Experience
@@ -80,7 +83,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
   
   📝 ***[SAM on Medical Images: A Comprehensive Study on Three Prompt Modes.](https://arxiv.org/pdf/2305.00035)***
-  📝 ***[Enhancing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation](https://arxiv.org/pdf/2402.15759)***
+  📝 ***[TV-SAM: Increasing Zero-Shot Segmentation Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation](https://arxiv.org/pdf/2402.15759)***
   
   🔗 [**Project**](https://github.com/JZK00/TV-SAM)
 - In the SAM project, We proposed using large models to generate descriptions for segmentation targets, feeding theses descriptions to the detection model to produce bounding boxes for SAM, thereby achieving zero-shot segmentation. 
