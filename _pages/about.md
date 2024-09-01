@@ -83,6 +83,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
   
   📝 ***[SAM on Medical Images: A Comprehensive Study on Three Prompt Modes.](https://arxiv.org/pdf/2305.00035)***
+  
   📝 ***[TV-SAM: Increasing Zero-Shot Segmentation Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation](https://arxiv.org/pdf/2402.15759)***
   
   🔗 [**Project**](https://github.com/JZK00/TV-SAM)
