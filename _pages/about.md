@@ -27,9 +27,9 @@ redirect_from:
 
 * <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Third Prize, “China Software Cup - Finals”</div><div>2023.08</div></div>
 
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Regional Second Prize, “RoboMaster - North Region Competition”</div><div>2023.06</div></div>
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Second Prize, “RoboMaster - North Region Competition”</div><div>2023.06</div></div>
 
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Provincial Second Prize, “National College Mathematics Competition”</div><div>2021.12</div></div>
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Second Prize, “National College Mathematics Competition”</div><div>2021.12</div></div>
 
 # 📝 Research Publication
 
