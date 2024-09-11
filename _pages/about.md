@@ -20,6 +20,7 @@ redirect_from:
 * GPA (Compulsory): **3.89/4**, **91.74/100**
 * GPA (Overall): **3.78/4**, **90.1/100**
 * Rank: **4/48**
+* IELTS: *7.0 (minimum sub-score 6.5)*
 * CET-6: **636**
 
 # 🎖 Honors & Awards
