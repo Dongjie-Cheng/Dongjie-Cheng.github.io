@@ -8,10 +8,10 @@ redirect_from:
 
 * I’m **Dongjie Cheng(程东杰)**, a senior student at Sichuan University. As the top-ranked student in my grade majoring in Artificial Intelligence last year, I was honored with the **2023 China National Scholarship** for my academic excellence. 
 * My research interests lie in emerging areas such as **large vision-language models (LVLM) fine-tuning and alignment**, **AI for medical sciences**, **multimodal content generation and evaluation**. I also always maintain an open mind and am willing to learn new things.
-* I used to serve as a research assistant in **Dr. Kang Li**'s Lab at the **West China Hospital – Big Data Center**, where my contributions span several projects, including the evaluation and improvement of the Segment Anything Model (SAM), and exploring evaluation methods for T2i (text-to-image) generation. I am also doing a remote internship at **Dr. Huaxiu Yao**'s Lab, mainly exploring the fine-tuning, alignment, and hallucination mitigation of large multimodal models. Up to now, I have mainly been responsible for and participated in four publications, three of which have been made available on arXiv. <a href='https://scholar.google.com/citations?user=s6x7gQcAAAAJ'><img src="https://img.shields.io/badge/Citations-87-blue.svg?logo=google-scholar"></a>
-* I am dedicated to conducting and publishing high-quality research as a pivotal step towards strengthening my application for a PhD program in the fall of 2025.
+* I used to serve as a research assistant in **Dr. Kang Li**'s Lab at the **West China Hospital – Big Data Center**, where my contributions span several projects, including the evaluation and improvement of the Segment Anything Model (SAM), and exploring evaluation methods for T2i (text-to-image) generation. I am also doing a remote internship at **Dr. Huaxiu Yao**'s Lab, mainly exploring the fine-tuning, alignment, and hallucination mitigation of large multimodal models. Up to now, I have mainly been responsible for and participated in four publications, two of which have been accepted by **NeurIPS-2024** and **BDMA(IF=7.7)**, three of which have been made available on arXiv. <a href='https://scholar.google.com/citations?user=s6x7gQcAAAAJ'><img src="https://img.shields.io/badge/Citations-88-blue.svg?logo=google-scholar"></a>
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 [***CSR***](https://arxiv.org/pdf/2405.14622) is accepted by **NeurIPS 2024**
 - *2024.08*: &nbsp;🎉🎉 [***TV-SAM***](https://arxiv.org/pdf/2402.15759) is accepted by **Big Data Mining and Analytics** (JCR Q1, 中科院1区, IF=7.7)
 - *2024.07*: &nbsp;🎉🎉 [The short version of ***CSR***](https://openreview.net/forum?id=B7sj10tXbL) is presented in  **ICML 2024 FM-Wild Workshop**
 
@@ -34,14 +34,14 @@ redirect_from:
 
 # 📝 Research Publication
 
+- ***Calibrated self-rewarding vision language models***
+<p align="right"><em>Co-First Author, Accepted, NeurIPS-2024</em></p>
+<p align="right"><em>(The short version is presented in ICML 2024 FM-Wild Workshop)</em></p>
+<p align="right"><em><a href="https://arxiv.org/pdf/2405.14622">Arxiv, abs/2405.14622</a></em></p>
+
 - ***TV-SAM: Increasing Zero-Shot Segmentation Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation***
 <p align="right"><em>Co-First Author, Accepted, Big Data Mining and Analytics (JCR Q1, 中科院1区, IF=7.7)</em></p>
 <p align="right"><em><a href="https://arxiv.org/pdf/2402.15759">ArXiv, abs/2402.15759</a></em></p>
-
-- ***Calibrated self-rewarding vision language models***
-<p align="right"><em>Co-First Author,  Submitting to NeurIPS-2024 Main Track</em></p>
-<p align="right"><em>(The short version is presented in ICML 2024 FM-Wild Workshop)</em></p>
-<p align="right"><em><a href="https://arxiv.org/pdf/2405.14622">Arxiv, abs/2405.14622</a></em></p>
 
 - ***SAM on Medical Images: A Comprehensive Study on Three Prompt Modes***
 <p align="right"><em>Co-First Author, Cited by: 82</em></p>
@@ -109,5 +109,6 @@ redirect_from:
 - ⚽ Football (I'm a big fan of BVB.) <img src="../images/bvb.png" width="20em" height="20em" alt="bvb" style="vertical-align: middle;">
 - 🕹️ Games (Valorant, RainbowSix...)
 
-
+# 🌏 Visitor Map
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5asrtcsm1fs&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
