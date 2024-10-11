@@ -11,9 +11,9 @@ redirect_from:
 * I used to serve as a research assistant in **Dr. Kang Li**'s Lab at the **West China Hospital – Big Data Center**, where my contributions span several projects, including the evaluation and improvement of the Segment Anything Model (SAM), and exploring evaluation methods for T2i (text-to-image) generation. I am also doing a remote internship at **Dr. Huaxiu Yao**'s Lab, mainly exploring the fine-tuning, alignment, and hallucination mitigation of large multimodal models. Up to now, I have mainly been responsible for and participated in four publications, two of which have been accepted by **NeurIPS-2024** and **BDMA(IF=7.7)**, three of which have been made available on arXiv. <a href='https://scholar.google.com/citations?user=s6x7gQcAAAAJ'><img src="https://img.shields.io/badge/Citations-98-blue.svg?logo=google-scholar"></a>
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 [***CSR***](https://arxiv.org/pdf/2405.14622) is accepted by **NeurIPS 2024**
-- *2024.08*: &nbsp;🎉🎉 [***TV-SAM***](https://arxiv.org/pdf/2402.15759) is accepted by **Big Data Mining and Analytics** (JCR Q1, 中科院1区, IF=7.7)
-- *2024.07*: &nbsp;🎉🎉 [The short version of ***CSR***](https://openreview.net/forum?id=B7sj10tXbL) is presented in  **ICML 2024 FM-Wild Workshop**
+- *2024.09*: &nbsp;🎉🎉 [***CSR***](https://arxiv.org/pdf/2405.14622) was accepted by **NeurIPS 2024**
+- *2024.08*: &nbsp;🎉🎉 [***TV-SAM***](https://arxiv.org/pdf/2402.15759) was accepted by **Big Data Mining and Analytics** (JCR Q1, 中科院1区, IF=7.7)
+- *2024.07*: &nbsp;🎉🎉 [The short version of ***CSR***](https://openreview.net/forum?id=B7sj10tXbL) was presented in  **ICML 2024 FM-Wild Workshop**
 
 # 📖 Education
 * B.S. in Artificial Intelligence, **Sichuan University**, Senior Year <img src="../images/scu.png" width="5%" height="5%" alt="校徽" align="right">
