@@ -111,4 +111,4 @@ redirect_from:
 - 🕹️ Games (Valorant, RainbowSix...)
 
 # 🌏 Visitor Map
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5rin0h36o5x&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=81TKUuZMt5oWrqheY_Uplk58eupAytSZp3e90mqEaKA&cl=ffffff&w=a"></script>
