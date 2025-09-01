@@ -6,9 +6,8 @@ redirect_from:
   - /about.html
 ---
 
-* I’m **Dongjie Cheng(程东杰)**, a senior student at Sichuan University. As the top-ranked student in my grade majoring in Artificial Intelligence last year, I was honored with the **2023 China National Scholarship** for my academic excellence.
-* My research interests lie in emerging areas such as **large vision-language models (LVLM) fine-tuning and alignment**, **AI for medical sciences**, **multimodal content generation and evaluation**. I also always maintain an open mind and am willing to learn new things.
-* I used to serve as a research assistant in **Dr. Kang Li**'s Lab at the **West China Hospital – Big Data Center**, where my contributions span several projects, including the evaluation and improvement of the Segment Anything Model (SAM), and exploring evaluation methods for T2i (text-to-image) generation. I am also doing a remote internship at **Dr. Huaxiu Yao**'s Lab, mainly exploring the fine-tuning, alignment, and hallucination mitigation of large multimodal models. Up to now, I have mainly been responsible for and participated in four publications, two of which have been accepted by **NeurIPS-2024** and **BDMA(IF=7.7)**, three of which have been made available on arXiv. <a href='https://scholar.google.com/citations?user=s6x7gQcAAAAJ'><img src="https://img.shields.io/badge/Citations-180-blue.svg?logo=google-scholar"></a>
+* I’m **Dongjie Cheng (程东杰)**, a PhD student in the Department of Computing at **The Hong Kong Polytechnic University (PolyU)**, advised by [**Prof. Wenjie Li**](https://www4.comp.polyu.edu.hk/~cswjli/) and [**Prof. Yongqi Li**](https://liyongqi67.github.io/). I received my **B.Eng. in Artificial Intelligence** from **Sichuan University**.
+* My research interests lie in the **Multimodal Large Language Models** and **Unified Multimodal Models**. I also always maintain an open mind and am willing to learn new things. You can find my main research interests on <a href='https://scholar.google.com/citations?user=s6x7gQcAAAAJ'><img src="https://img.shields.io/badge/Citations-507-blue.svg?logo=google-scholar"></a>
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 I'll be joining ***PolyU*** as a PhD student in Fall 2025—see you in 🇭🇰!
@@ -16,23 +15,6 @@ redirect_from:
 - *2024.09*: &nbsp;🎉🎉 [***CSR***](https://arxiv.org/pdf/2405.14622) was accepted by **NeurIPS 2024**
 - *2024.08*: &nbsp;🎉🎉 [***TV-SAM***](https://arxiv.org/pdf/2402.15759) was accepted by **Big Data Mining and Analytics** (JCR Q1, 中科院1区, IF=7.7)
 - *2024.07*: &nbsp;🎉🎉 [The short version of ***CSR***](https://openreview.net/forum?id=B7sj10tXbL) was presented in  **ICML 2024 FM-Wild Workshop**
-
-# 📖 Education
-* B.S. in Artificial Intelligence, **Sichuan University**, Senior Year <img src="../images/scu.png" width="5%" height="5%" alt="校徽" align="right">
-* GPA (Compulsory): **3.9/4**, **91.51/100**
-* GPA (Overall): **3.8/4**, **90.1/100**
-* Rank: **4/48**
-* IELTS: **7.0** *(minimum sub-score 6.5)*
-* CET-6: **636**
-
-# 🎖 Honors & Awards
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Scholarship (1/48 that year)</div><div>2023.11</div></div>
-
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Third Prize, “China Software Cup - Finals”</div><div>2023.08</div></div>
-
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Second Prize, “RoboMaster - North Region Competition”</div><div>2023.06</div></div>
-
-* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Second Prize, “National College Mathematics Competition”</div><div>2021.12</div></div>
 
 # 📝 Research Publication
 
@@ -53,19 +35,36 @@ redirect_from:
 <p align="right"><em>Co-First Author, Submitting to NeurIPS-2024 D&B Track</em></p>
 
 
+# 📖 Education
+* Ph.D. in Computing, 2025-Now, The Hong Kong Polytechnic University (PolyU) <img src="../images/polyu.jpg" width="10%" height="10%" alt="poly校徽" align="right">
 
+* B.S. in Artificial Intelligence, 2021-2025, **Sichuan University**, GPA (Compulsory): **3.9/4**, **91.51/100** <img src="../images/scu.png" width="5%" height="5%" alt="校徽" align="right">
+
+# 🎖 Honors & Awards
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Scholarship (1/48 that year)</div><div>2023.11</div></div>
+
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>National Third Prize, “China Software Cup - Finals”</div><div>2023.08</div></div>
+
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Second Prize, “RoboMaster - North Region Competition”</div><div>2023.06</div></div>
+
+* <div style="display: flex; justify-content: space-between; align-items: center;"><div>Second Prize, “National College Mathematics Competition”</div><div>2021.12</div></div>
 
 
 # 💻 Experience
+## PolyU
+* PhD student of **Prof.Wenjie Li** ’s Lab
+* September, 2025 - Present
+* Supervisor: **Prof.Wenjie Li**, **Prof.Yongqi Li**
+
 ## WEST CHINA HOSPITAL – BIG DATA CENTER
-* Research Assitant of **Dr.Kang Li** ’s Lab
-* February, 2023 - Present
-* Supervisor: **Dr.Kang Li**, **Dr.Qicheng Lao**
+* Research Assitant of **Prof.Kang Li** ’s Lab
+* February, 2023 - August 2024
+* Supervisor: **Prof.Kang Li**, **Prof.Qicheng Lao**
   
 ## UNC-CHAPEL HILL
-* Remote Intern of **Dr.Huaxiu Yao** ’s Lab
-* March, 2024 - Present
-* Supervisor: **Dr.Huaxiu Yao**
+* Remote Intern of **Prof.Huaxiu Yao** ’s Lab
+* March, 2024 - September, 2024
+* Supervisor: **Prof.Huaxiu Yao**
 
 # 🧩 Projects
 ## 🎙 **VLM project**
