@@ -67,7 +67,7 @@ redirect_from:
 * Supervisor: **Prof.Huaxiu Yao**
 
 # 🧩 Projects
-## 🎙 **VLM project**
+## 🎙 **VLM self-rewarding project**
 <div class='paper-box'><div class='paper-box-image'><img src='../images/csr.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
   
