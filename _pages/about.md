@@ -106,6 +106,9 @@ redirect_from:
 - I was responsible for generating evaluation dataset images, the specific design and experimentation of the Scene Graph part, achieving the construction of Scene Graphs through the use of GroundingDINO+BLIP VQA.
 - We constructed a human-evaluated dataset containing 12,000 images from 1,000 prompts and validated the effectiveness of our method. Compared with human evaluations, our Pearson and Kendall correlation coefficients surpassed those of T2ICompbench(Neurips 2023). This project ultimately resulted in one paper, for which I am a co-first author.
 
+</div>
+</div>
+
 # 🔭 Interests
 - 🎹 Piano (Amateur Level 10, Issued by Shanghai Conservatory of Music)
 - ✏️ Sketch & Quick Sketch (Amateur Level 4&6)
