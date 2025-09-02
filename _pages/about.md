@@ -97,7 +97,10 @@ redirect_from:
 
 ## 📏 **T2i-Eval project**
 
-  📝 ***Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent***
+<div class='paper-box'><div class='paper-box-image'><img src='../images/t2ibench.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+  
+  📝 ***[Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent](https://arxiv.org/pdf/2412.05722)***
   
 - In the T2i-Eval project, we proposed a method combining Scene Graph and Graph QA to score the quality of generated images, conducting a comprehensive evaluation of images from perspectives such as object omission, attribute inaccuracies, relational errors, and hallucinations.
 - I was responsible for generating evaluation dataset images, the specific design and experimentation of the Scene Graph part, achieving the construction of Scene Graphs through the use of GroundingDINO+BLIP VQA.
