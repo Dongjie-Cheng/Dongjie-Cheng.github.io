@@ -28,11 +28,12 @@ redirect_from:
 <p align="right"><em><a href="https://arxiv.org/pdf/2402.15759">ArXiv, abs/2402.15759</a></em></p>
 
 - ***SAM on Medical Images: A Comprehensive Study on Three Prompt Modes***
-<p align="right"><em>Co-First Author, Cited by: 125</em></p>
+<p align="right"><em>Co-First Author, Cited by: 427</em></p>
 <p align="right"><em><a href="https://arxiv.org/pdf/2305.00035">ArXiv, abs/2305.00035</a></em></p>
 
 - ***Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent***
-<p align="right"><em>Co-First Author, Submitting to NeurIPS-2024 D&B Track</em></p>
+<p align="right"><em>Co-First Author</em></p>
+<p align="right"><em><a href="https://arxiv.org/pdf/2412.05722">ArXiv, abs/2412.05722</a></em></p>
 
 
 # 📖 Education
